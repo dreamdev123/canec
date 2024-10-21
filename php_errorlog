@@ -1,0 +1,4 @@
+[17-Feb-2019 23:02:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17

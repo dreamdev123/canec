@@ -1,0 +1,32 @@
+[26-Sep-2018 14:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
+[26-Sep-2018 14:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/canec/public_html/wp-content/themes/canec/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/canec/public_html/wp-content/themes/canec/index.php on line 17
